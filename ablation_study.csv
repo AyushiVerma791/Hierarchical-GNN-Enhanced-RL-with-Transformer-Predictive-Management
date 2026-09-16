@@ -1,0 +1,5 @@
+Configuration,Throughput (M sat),Success Ratio
+HGRL-TPM (Full),2500,0.95
+No GAT (Plain GNN),2100,0.91
+No Transformer (Reactive),2200,0.92
+Single Agent (No Hierarchy),2050,0.9

@@ -1,0 +1,6 @@
+Algorithm,Throughput (M sat),Success Ratio,Mean Reward,Imbalance Gain
+Without Rebalancing,1000,0.74,0.0,0.0
+GCB-Balancing,1520,0.81,0.16,0.05
+Revive,1860,0.85,0.0,0.0
+DRL-PCR (Baseline),2001,0.9,7.44,0.37
+HGRL-TPM (Proposed),2500,0.95,9.12,0.45

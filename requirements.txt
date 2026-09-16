@@ -1,0 +1,12 @@
+networkx
+numpy
+torch
+torch-geometric
+matplotlib
+seaborn
+pyyaml
+scipy
+pytest
+python-louvain
+streamlit
+matplotlib

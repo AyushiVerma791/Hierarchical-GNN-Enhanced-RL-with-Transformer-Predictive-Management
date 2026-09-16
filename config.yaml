@@ -1,0 +1,12 @@
+seed: 42
+env:
+  num_nodes: 100
+  topology: 'barabasi_albert'
+  rebalance_threshold: 25
+  K: 5
+  max_length: 6
+training:
+  epochs: 100
+  batch_size: 128
+  lr: 0.001
+  gamma: 0.95
