@@ -81,5 +81,4 @@ HGRL-TPM/
 └── README.md
 ```
 
-## Screenshots
-*(Add screenshots of your Streamlit Dashboard here)*
+
